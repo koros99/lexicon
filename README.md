@@ -1,5 +1,8 @@
 # Lexicon
 
+## Description
+This is a lexicon program that allows users to add, remove, and check for words. The program uses a trie (a tree with up to 26 chilren) to store the words. Thus, operations such as add, remove, and contains are quick (O(n) where n is the length of the word).
+
 ## Using Main.java to Test
 
 ```
