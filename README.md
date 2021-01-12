@@ -6,6 +6,7 @@ This is a lexicon program that allows users to add, remove, and check for words.
 ## Using Main.java to Test
 
 ```
+$ javac Main.java
 $ java Main
 ```
 
